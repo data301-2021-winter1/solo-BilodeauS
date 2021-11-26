@@ -17,15 +17,9 @@ This data set includes details of covid cases and deaths from all across the US 
 
 Shawna Bilodeau: A 4th year microbio student 
 
-## Images
-
-{You can use this area for any images you want to include}
-
-<img src ="images/test.png" width="100px">
-
 ## References
 
-{Add your stuff here}
+https://catalog.data.gov/dataset/md-covid-19-master-case-tracker
 
 
 
